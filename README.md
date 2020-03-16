@@ -8,3 +8,7 @@ Original code had a version for Arduino, but I have removed that as I have only 
 To run this code, you'll need Processing (https://processing.org/download/). Open the PDE file in Processing, then follow the instructions in the file.
 
 See the license file for licensing details.
+
+Allows you to create images like this:
+
+![Loom Art](https://1.bp.blogspot.com/-1ZMWNrZlo2g/Wm_I0sKg6ZI/AAAAAAAAJAc/koqc2tPtOsMIbiFQaiv3P_Qipk7cn8hdgCLcBGAs/s1600/Heading.png)
