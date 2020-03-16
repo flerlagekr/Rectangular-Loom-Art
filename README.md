@@ -9,6 +9,8 @@ To run this code, you'll need Processing (https://processing.org/download/). Ope
 
 See the license file for licensing details.
 
+Blog: https://www.flerlagetwins.com/2018/02/rectangular-loom-art-in-tableau_62.html
+
 Allows you to create images like this:
 
 ![Loom Art](https://1.bp.blogspot.com/-1ZMWNrZlo2g/Wm_I0sKg6ZI/AAAAAAAAJAc/koqc2tPtOsMIbiFQaiv3P_Qipk7cn8hdgCLcBGAs/s1600/Heading.png)
